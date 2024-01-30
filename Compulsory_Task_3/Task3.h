@@ -8,5 +8,6 @@ public:
 
 	std::vector<std::vector<double>> computeSurface(int resolution);
 
+	std::vector<float> createVertices(const std::vector<std::vector<double>>& surface);
 };
 

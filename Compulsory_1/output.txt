@@ -1,6 +1,7 @@
-Number of points: 7
-The x value went from -1 to 0, and the y value is: -2
+Number of points: 6
 The graph colour is red.
+The x value went from -1 to 0, and the y value is: -2
+The graph colour is green.
 The x value went from 0 to 1, and the y value is: 2
 The graph colour is green.
 The x value went from 1 to 2, and the y value is: 30
@@ -8,6 +9,3 @@ The graph colour is green.
 The x value went from 2 to 3, and the y value is: 130
 The graph colour is green.
 The x value went from 3 to 4, and the y value is: 350
-The graph colour is green.
-The x value went from 4 to 5, and the y value is: 738
-The graph colour is green.

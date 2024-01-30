@@ -1,5 +1,4 @@
 ﻿  Main.cpp
-  Task3.cpp
-  Generating Code...
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Main.cpp(94,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
 LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   Compulsory_Task_3.vcxproj -> C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\x64\Debug\Compulsory_Task_3.exe

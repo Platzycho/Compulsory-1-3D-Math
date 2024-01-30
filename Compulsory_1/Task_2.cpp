@@ -2,6 +2,7 @@
 #include <iostream>
 #include <fstream>
 
+
 double Task_2::taskTwoFunction(double x)
 {
     double number = x;
@@ -14,18 +15,23 @@ double Task_2::taskTwoFunction(double x)
     return 0.0;
 }
 
-double Task_2::taskTwoInterval(double x)
+
+
+std::vector<float> Task_2::taskTwoInterval(int x)
 {
-    for(int i = 0; i < x; i++) {
+	std::vector<float> vertices;
+	for(int i = 0; i < x; i++) {
 		double function = 2 * pow(i, 4);
 		std::cout << "For interval " << i << " the result is: " << function << std::endl;
+		vertices.push_back(static_cast<float>(i)); 
+        vertices.push_back(static_cast<float>(function));
 	}
-
-    return 0.0;
+	return vertices;
 }
 
-double Task_2::taskTwoColors(double x)
+std::vector<float> Task_2::taskTwoColors(int x)
 {
+	std::vector<float> colors;
 	std::ofstream outFile("output.txt");
 	if(!outFile.is_open()) {
 		std::cerr << "Unable to open file for writing." << std::endl;
@@ -40,18 +46,18 @@ double Task_2::taskTwoColors(double x)
 		std::cout << "The x value went from " << i-1 << " to " << i << ", and the y value is: " << yValue << std::endl;
 		if(yValue < 0){
 			std::cout << "The graph colour is red." << std::endl;
+			outFile << "The graph colour is red." << std::endl;
+			colors.insert(colors.end(), {1.0f, 0.0f, 0.0f});
 		} else if(yValue > 0){
 			std::cout << "The graph colour is green." << std::endl;
+			outFile << "The graph colour is green." << std::endl;
+			colors.insert(colors.end(), {0.0f, 1.0f, 0.0f});
 		}
 
 		outFile << "The x value went from " << i-1 << " to " << i << ", and the y value is: " << yValue << std::endl;
 
-		if(yValue < 0){
-			outFile << "The graph colour is red." << std::endl;
-		} else if(yValue > 0){
-			outFile << "The graph colour is green." << std::endl;
-		}
+		
 	}
 
-    return 0.0;
+    return colors;
 }

@@ -27,6 +27,9 @@
     <ClCompile Include="glad.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Task_1.h">
@@ -47,6 +50,9 @@
     <ClInclude Include="Dependencies\includes\glad\glad.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Library Include="Dependencies\libs\GLFW\glfw3dll.lib" />
@@ -55,5 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Dependencies\libs\GLFW\glfw3.dll" />
+    <None Include="Shader.vs" />
+    <None Include="Shader.fs" />
   </ItemGroup>
 </Project>
