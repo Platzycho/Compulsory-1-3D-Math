@@ -8,8 +8,6 @@ double Task_2::taskTwoFunction(double x)
     double number = x;
 	double function = 2 * pow(x, 4);
 
-
-
 	std::cout << "f(" << number << ") =" << function << std::endl;
 
     return 0.0;
@@ -37,7 +35,7 @@ std::vector<float> Task_2::taskTwoColors(int x)
 		std::cerr << "Unable to open file for writing." << std::endl;
 	}
 
-	outFile << "Number of points: " << x + 2 << std::endl;
+	outFile << "Number of points: " << x + 1 << std::endl;
 
 	for(int i = 0; i < x + 1; i++) {
 		double preFunction = 2 * pow(i-1, 4);

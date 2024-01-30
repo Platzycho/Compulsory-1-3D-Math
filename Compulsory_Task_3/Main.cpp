@@ -2,9 +2,9 @@
 #include "GLFW/glfw3.h"
 #include "glm/glm.hpp"
 #include "glm/gtc/matrix_transform.hpp"
+#include <glm/gtc/type_ptr.hpp>
 #include "Task3.h"
 #include "Shader.h"
-#include <glm/gtc/type_ptr.hpp>
 #include <iostream>
 #include <algorithm>
 #include <vector>
@@ -14,7 +14,7 @@ void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 
 void processInput(GLFWwindow* window);
 
-int resolution = 100;
+double resolution = 10;
 
 glm::vec3 cameraPos = glm::vec3(0.0f, 0.0f, 3.0f);
 glm::vec3 cameraFront = glm::vec3(0.0f, 0.0f, -1.0f);
@@ -55,6 +55,7 @@ int main() {
 	Task_3 task;
 	auto surface = task.computeSurface(resolution);
 	auto vertices = task.createVertices(surface);
+	/*task.generateVertices();*/
 
 	glm::mat4 view;
 	view = glm::lookAt(cameraPos, cameraPos + cameraFront, cameraUp);
@@ -71,8 +72,11 @@ int main() {
 	glBindBuffer(GL_ARRAY_BUFFER, VBO);
 	glBufferData(GL_ARRAY_BUFFER, vertices.size() * sizeof(vertices[0]), vertices.data(), GL_STATIC_DRAW);
 
-	glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 3 * sizeof(float), (void*)0);
+	glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 6 * sizeof(float), (void*)0);
 	glEnableVertexAttribArray(0);
+
+	glVertexAttribPointer(1, 3, GL_FLOAT, GL_FALSE, 6 * sizeof(float),(void*)(3 * sizeof(float)));
+	glEnableVertexAttribArray(1);
 
 	glEnable(GL_DEPTH_TEST);
 	while(!glfwWindowShouldClose(window))

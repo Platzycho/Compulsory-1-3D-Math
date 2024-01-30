@@ -1,4 +1,4 @@
-Number of points: 6
+Number of points: 5
 The graph colour is red.
 The x value went from -1 to 0, and the y value is: -2
 The graph colour is green.

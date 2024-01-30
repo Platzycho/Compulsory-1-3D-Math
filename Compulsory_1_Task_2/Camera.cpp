@@ -1,11 +1,6 @@
 #include "Camera.h"
 #include <cmath>
 
-
-
-
-
-
 void Camera::normalize(float* v)
 {
 	float norm = sqrt(v[0] * v[0] + v[1] * v[1] + v[2] * v[2]);

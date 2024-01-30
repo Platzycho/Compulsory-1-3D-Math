@@ -3,8 +3,6 @@ C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Com
 C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_1\Main.cpp(112,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
 C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_1\Main.cpp(114,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
 C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_1\Main.cpp(115,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_1\Main.cpp(163,34): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
-  Task_2.cpp
-  Generating Code...
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_1\Main.cpp(165,30): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_1\Main.cpp(170,34): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
   Compulsory_1.vcxproj -> C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_1\x64\Debug\Compulsory_1.exe

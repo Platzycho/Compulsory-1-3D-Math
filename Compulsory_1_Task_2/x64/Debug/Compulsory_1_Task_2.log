@@ -1,4 +1,2 @@
-﻿  Main.cpp
-C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_1_Task_2\Main.cpp(68,37): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_1_Task_2\Main.cpp(73,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+﻿  Camera.cpp
   Compulsory_1_Task_2.vcxproj -> C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_1_Task_2\x64\Debug\Compulsory_1_Task_2.exe

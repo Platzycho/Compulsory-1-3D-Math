@@ -149,7 +149,7 @@ int main(){
 		view = glm::lookAt(cameraPos, cameraPos + cameraFront, cameraUp);
 
 		//rendering commands
-		glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
+		glClearColor(0.0f, 0.1f, 0.0f, 1.0f);
 		glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
 		ourShader.use();
@@ -158,6 +158,13 @@ int main(){
 
 		unsigned int projLoc = glGetUniformLocation(ourShader.ID, "projection");
 		glUniformMatrix4fv(projLoc, 1, GL_FALSE, glm::value_ptr(projection));
+
+
+		
+		glBindVertexArray(VAO);
+		glDrawArrays(GL_POINTS, 0, numberOfPoints);
+		glBindVertexArray(0);
+
 		
 		glBindVertexArray(VAO);
 		glDrawArrays(GL_LINE_STRIP, 0, numberOfPoints);

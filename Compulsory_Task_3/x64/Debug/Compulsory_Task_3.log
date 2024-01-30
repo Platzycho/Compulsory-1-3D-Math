@@ -1,4 +1,141 @@
 ﻿  Main.cpp
-C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Main.cpp(94,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Main.cpp(98,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Task3.cpp
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(57,75): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(57,43): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(62,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(64,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(90,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(92,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(97,23): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(97,23): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(97,23): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(97,23): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(97,23): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(98,32): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(98,32): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(98,32): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(98,32): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(98,32): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(99,44): warning C4244: 'argument': conversion from 'const _Ty' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(99,44): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(99,44): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(99,44): warning C4244:             _Ty=double
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(99,44): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(99,44): warning C4244:         and
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(99,44): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(99,44): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(99,44): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(101,34): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(101,34): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(101,34): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(101,34): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(101,34): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(102,32): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(102,32): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(102,32): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(102,32): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(102,32): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(103,48): warning C4244: 'argument': conversion from 'const _Ty' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(103,48): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(103,48): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(103,48): warning C4244:             _Ty=double
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(103,48): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(103,48): warning C4244:         and
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(103,48): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(103,48): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(103,48): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(105,32): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(105,32): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(105,32): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(105,32): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(105,32): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(106,34): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(106,34): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(106,34): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(106,34): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(106,34): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(107,48): warning C4244: 'argument': conversion from 'const _Ty' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(107,48): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(107,48): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(107,48): warning C4244:             _Ty=double
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(107,48): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(107,48): warning C4244:         and
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(107,48): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(107,48): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(107,48): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(110,34): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(110,34): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(110,34): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(110,34): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(110,34): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(111,32): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(111,32): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(111,32): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(111,32): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(111,32): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(112,48): warning C4244: 'argument': conversion from 'const _Ty' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(112,48): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(112,48): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(112,48): warning C4244:             _Ty=double
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(112,48): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(112,48): warning C4244:         and
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(112,48): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(112,48): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(112,48): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(114,34): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(114,34): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(114,34): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(114,34): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(114,34): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(115,34): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(115,34): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(115,34): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(115,34): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(115,34): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(116,52): warning C4244: 'argument': conversion from 'const _Ty' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(116,52): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(116,52): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(116,52): warning C4244:             _Ty=double
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(116,52): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(116,52): warning C4244:         and
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(116,52): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(116,52): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(116,52): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(118,32): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(118,32): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(118,32): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(118,32): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(118,32): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(119,34): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(119,34): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(119,34): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(119,34): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(119,34): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(120,48): warning C4244: 'argument': conversion from 'const _Ty' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(120,48): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(120,48): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(120,48): warning C4244:             _Ty=double
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(120,48): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(120,48): warning C4244:         and
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(120,48): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(120,48): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(120,48): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(127,20): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(127,20): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(127,20): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(127,20): warning C4244:             _Ty=double
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(127,20): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(129,31): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(129,31): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(129,31): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(129,31): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(129,31): warning C4244:         ]
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(130,31): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(130,31): warning C4244:         with
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(130,31): warning C4244:         [
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(130,31): warning C4244:             _Ty=float
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\Task3.cpp(130,31): warning C4244:         ]
+  Generating Code...
 LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   Compulsory_Task_3.vcxproj -> C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Compulsory_1\Compulsory_1_3D_Math\Compulsory_Task_3\x64\Debug\Compulsory_Task_3.exe
