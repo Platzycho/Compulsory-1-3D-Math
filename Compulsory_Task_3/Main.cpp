@@ -2,6 +2,7 @@
 #include "GLFW/glfw3.h"
 #include "glm/glm.hpp"
 #include "glm/gtc/matrix_transform.hpp"
+#include "Task3.h"
 #include <glm/gtc/type_ptr.hpp>
 #include <iostream>
 #include <algorithm>
@@ -12,6 +13,7 @@ void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 
 void processInput(GLFWwindow* window);
 
+int resolution = 100;
 
 int main() {
 
@@ -27,6 +29,7 @@ int main() {
 		glfwTerminate();
 		return -1;
 	}
+
 	glfwMakeContextCurrent(window);
 
 	if (!gladLoadGLLoader((GLADloadproc)glfwGetProcAddress))
@@ -35,11 +38,13 @@ int main() {
 		return -1;
 	}
 
-	
 	glViewport(0, 0, 800, 600);
 
 	glfwSetFramebufferSizeCallback(window, framebuffer_size_callback);
 
+	Task_3 task;
+	task.computeSurface(resolution);
+	
 	while(!glfwWindowShouldClose(window))
 	{
 		processInput(window);
@@ -56,8 +61,6 @@ int main() {
 	}
 	glfwTerminate();
 	return 0;
-
-	
 
 }
 
